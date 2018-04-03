@@ -1,0 +1,8 @@
+127.0.0.1 - - [09/Mar/2018:09:14:54 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:09:14:55 +0530] "GET /RESTful-demo/ HTTP/1.1" 404 977
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:09:15:18 +0530] "POST /RESTful-demo/rest/demo/simple HTTP/1.1" 404 967
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:09:15:29 +0530] "GET /RESTful-demo/rest/demo/simple HTTP/1.1" 404 967
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:09:16:06 +0530] "GET /RESTful-demo/rest/demo/simple HTTP/1.1" 404 967
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:09:16:12 +0530] "GET /RESTful-demo/rest/demo/simple HTTP/1.1" 404 967
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:09:17:40 +0530] "POST /RESTful-demo/rest/demo HTTP/1.1" 404 967
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:09:17:44 +0530] "GET /RESTful-demo/rest/demo HTTP/1.1" 404 967
